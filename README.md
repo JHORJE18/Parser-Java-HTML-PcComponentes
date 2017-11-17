@@ -1,4 +1,4 @@
-# Parser-Java-HTML-PcComponentes
+# Parser Java HTML
 Programa Java para probar las posiblidades que nos oferce JSOUP para parsear documentos html y páginas web a Java.
 Para esta prueba se ha tomado como ejemplo parsear las ofertas que se localizan en la web de [PcComponentes](https://www.pccomponentes.com)
 
